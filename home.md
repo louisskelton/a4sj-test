@@ -1,9 +1,13 @@
 # Welcome to #A4SJ
 
-## Intro
+## What's this all about?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+This site is a guide promoting the use of non-discriminatory and non-exclusionary language in the design of and administrators of online and paper forms, CRM systems, databases, apps and user interfaces.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
 
-Test!
+
+
+## What do admins have to do with Social Justice
+
+It's the little things.
+
